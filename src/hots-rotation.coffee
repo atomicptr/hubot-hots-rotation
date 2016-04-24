@@ -13,4 +13,4 @@ module.exports = (robot) ->
                 for hero in heroes
                     heroNames.push $(hero).text().trim()
 
-                res.send("**Current Heroes of the Storm Rotation**\n* " + heroNames.join("\n*"));
+                res.send("**Current Heroes of the Storm Rotation**\n* " + heroNames.join("\n* "));

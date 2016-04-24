@@ -1,6 +1,6 @@
 {
     "name": "hubot-hots-rotation",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Hubot script for retrieving the current Heroes of the Storm free rotation",
     "main": "src/hots-rotation.coffee",
     "scripts": {
