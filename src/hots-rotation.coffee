@@ -1,3 +1,8 @@
+# Description
+#   Prints the current Heroes of the Storm rotation into the chat
+# Commands
+#   hubot free hots rotation - Prints the current Heroes of the Storm rotation into the chat
+
 cheerio = require "cheerio"
 
 module.exports = (robot) ->
