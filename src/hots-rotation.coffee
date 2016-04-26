@@ -1,6 +1,6 @@
-# Description
+# Description:
 #   Prints the current Heroes of the Storm rotation into the chat
-# Commands
+# Commands:
 #   hubot free hots rotation - Prints the current Heroes of the Storm rotation into the chat
 
 cheerio = require "cheerio"
